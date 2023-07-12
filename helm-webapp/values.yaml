@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  name: webdevdemo.azurecr.io/demoapp
+  repository: webdevdemo.azurecr.io/demoapp
   tag: 0.2
 
 imagePullSecrets: 
