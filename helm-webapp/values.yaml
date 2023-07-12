@@ -10,7 +10,7 @@ image:
   tag: 0.2
 
 imagePullSecrets:
-  - name: regcred
+  - name: regcreddemo
 nameOverride: ""
 fullnameOverride: ""
 
