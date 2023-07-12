@@ -8,8 +8,7 @@ image:
   repository: webdevdemo.azurecr.io/demoapp
   tag: 0.2
 
-imagePullSecrets: 
-  name: regcred
+imagePullSecrets: ["regcred"]
 nameOverride: ""
 fullnameOverride: ""
 
